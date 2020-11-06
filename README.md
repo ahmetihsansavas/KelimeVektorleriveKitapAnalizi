@@ -1,5 +1,5 @@
 # Kelime-Vektorleri-ile-Kitap-Analizi
-Word2Vec yapısı kullanılarak Harry Potter serisi incelenmiş ve kelimeler arasındaki ilişkiler grafiğe dökülmüştür.
+Word2Vec yapısı kullanılarak Harry Potter serisi, Sherlock Holmes kitabı incelenmiş ve kelimeler arasındaki ilişkiler grafiğe dökülmüştür.
 
 Potter2Vec.ipynb dosyasını çalıştırmak için ```Anaconda``` sisteminizde yüklü olmalıdır (https://www.anaconda.com/download/)
 
